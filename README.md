@@ -20,6 +20,8 @@ an innovative online platform designed for book lovers and avid readers. This we
   <li>Indra Bayu - 202210370311343</li>
   <li>Mukh. Rezarudin Yusuf - 202210370311358</li>
   <li>Igo fatahilah Ilham - 202210370311356</li>
+  <li>Sindur mas - </li>
+  <li>tyo</li>
 </ul>
 
 ## Figma design & Presentation
