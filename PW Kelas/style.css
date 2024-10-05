@@ -200,3 +200,9 @@ border-radius: 50%;
   color: black;
   font-weight: bold;
 }
+
+.inti{
+   
+  height: 100vh;
+  background-image: url(assets/Rectangle\ 3.png);
+}
