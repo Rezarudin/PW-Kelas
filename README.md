@@ -23,6 +23,6 @@ an innovative online platform designed for book lovers and avid readers. This we
 </ul>
 
 ## Figma design & Presentation
-this [link](https://www.figma.com/design/pE3XaG8j2PzwBBTluuBdoD/project?node-id=0-1&node-type=canvas&t=2l8XZP1KNp4HGgth-0)) to our figma design 
+this [link](https://www.figma.com/design/pE3XaG8j2PzwBBTluuBdoD/project?node-id=0-1&node-type=canvas&t=2l8XZP1KNp4HGgth-0) to our figma design 
 
 
